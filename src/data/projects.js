@@ -1,47 +1,32 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Chaotic Magnetic Pendulum',
+    link: '',
+    image: '/images/projects/pendulum.png',
+    date: 'Spring 2021',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'This is a solution to the 2022 International Physicists Tournament Problem 13.'
+      + ' The Project won a 7.5/10 score on the United States Physicists Tournament'
+      + ' and together with another two problems our team won the 1st place in the competition.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Gitlet',
+    link: 'https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/index.html',
+    image: '/images/projects/git.png',
+    date: 'Spring 2022',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'A version-control system that can track and commit file changes, revert to previous versions, create and merge branches.'
+      + ' Implemented the remote features that can pull, push, fetch from a remote repository given the path.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Ataxx',
+    link: 'https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj2/index.html',
+    image: '/images/projects/ataxx.png',
+    date: 'Spring 2022',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    'A board game with both the GUI version and the command line version. Implemented both manual players and AI players.'
+    + ' For AI player, used game trees and alpha beta pruning based on heuristic values.',
   },
 ];
 

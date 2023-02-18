@@ -17,7 +17,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: '#',
+    link: 'https://www.linkedin.com/in/yiwei-ivy-yu/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
