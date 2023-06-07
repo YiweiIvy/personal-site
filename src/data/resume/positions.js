@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'University of California, Berkeley – Lingua Franca',
-    position: 'Modeling and Simulation Analysis Engineer',
+    position: 'Research Intern',
     link: 'https://www.lf-lang.org/',
     daterange: 'May 2022 – Present ',
     points: [
@@ -12,7 +12,7 @@ const positions = [
   },
   {
     company: 'Uiversity of California, San Francisco – Wang Lab',
-    position: 'Image Processing Research Assistant',
+    position: 'Research Assistant',
     daterange: 'Sep 2022 – Nov 2022',
     points: [
       'Processed images obtained from the custom-built two-photon microscope and performed 5D live imaging to uncover the molecular mechanisms and hemodynamic signal in development for mouse models after gene deletion/expression',
@@ -22,7 +22,7 @@ const positions = [
   },
   {
     company: 'Wuhan University of Technology',
-    position: 'Intelligent Transportation Systems Research Assistant with AI Focus',
+    position: 'Research Assistant',
     daterange: 'Jun 2019 – Jul 2019',
     points: [
       'Researched on AI in Traffic Light Control at Intelligent Transportation Systems Research Center under Professor Duanfeng Chu',

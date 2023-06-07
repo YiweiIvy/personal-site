@@ -1,14 +1,13 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Chaotic Magnetic Pendulum',
-    link: '',
-    image: '/images/projects/pendulum.png',
-    date: 'Spring 2021',
+    title: 'SmartPrep AI Toefl Tutor',
+    link: 'https://www.notegpt.org/',
+    image: '/images/projects/smartprep.png',
+    date: 'Summer 2023',
     desc:
-      'This is a solution to the 2022 International Physicists Tournament Problem 13.'
-      + ' The Project won a 7.5/10 score on the United States Physicists Tournament'
-      + ' and together with another two problems our team won the 1st place in the competition.',
+      'a cost-effective ChatGPT-powered website, offering personalized one-on-one teaching experiences for TOEFL learners, '
+      + 'with features including speech recognition, conversation, and personalized scoring and suggestions.',
   },
   {
     title: 'Gitlet',
@@ -27,6 +26,16 @@ const data = [
     desc:
     'A board game with both the GUI version and the command line version. Implemented both manual players and AI players.'
     + ' For AI player, used game trees and alpha beta pruning based on heuristic values.',
+  },
+  {
+    title: 'Chaotic Magnetic Pendulum',
+    link: 'https://github.com/YiweiIvy/ChaoticPendulum',
+    image: '/images/projects/pendulum.png',
+    date: 'Spring 2021',
+    desc:
+      'This is a solution to the 2022 International Physicists Tournament Problem 13.'
+      + ' The Project won a 7.5/10 score on the United States Physicists Tournament'
+      + ' and together with another two problems our team won the 1st place in the competition.',
   },
 ];
 
