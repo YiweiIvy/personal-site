@@ -2,7 +2,7 @@
 const data = [
   {
     title: 'SmartPrep AI Toefl Tutor',
-    link: 'https://www.notegpt.org/',
+    link: 'https://www.smartprep.app',
     image: '/images/projects/smartprep.png',
     date: 'Summer 2023',
     desc:

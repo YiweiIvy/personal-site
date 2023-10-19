@@ -1,9 +1,20 @@
 const positions = [
   {
+    company: 'Pure Storage',
+    position: 'Software Engineer Intern',
+    link: 'https://www.purestorage.com/',
+    daterange: 'May 2023 – Aug 2023 ',
+    points: [
+      'Ported and optimized the Operating System Software Purity (based on Linux Kernel and C++) from Intel x86 onto Ampere ARM64 processor.Purity serves as the software for FlashArray, a high-performance, low-latency, and highly available storage system.',
+      'Spearheaded the development of the ARM development support for Purity, encompassing essential libraries for SSE to NEON intrinsics translation, implemented AES encryption module using ARM64 crypto instructions, and solved multi-threading issues due to incompatible memory coherency between x86 and ARM64.',
+      'Conducted comprehensive performance per watt analysis, comparing Intel x86 and Ampere ARM64 single socket, 128-core CPU systems, the result shows the ARM has a 4x improvement in energy consumption with the same workload .',
+    ],
+  },
+  {
     company: 'University of California, Berkeley – Lingua Franca',
     position: 'Research Intern',
     link: 'https://www.lf-lang.org/',
-    daterange: 'May 2022 – Present ',
+    daterange: 'May 2022 – May 2023 ',
     points: [
       'Contributed to Lingua Franca open source mentored by Professor Edward A. Lee ',
       'Led the modeling and simulation team; worked on the application of Lingua Franca in physical systems/embedded systems',
