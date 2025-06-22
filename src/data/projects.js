@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Symbiosis Bias',
+    link: 'https://github.com/daveholtz/SymbiosisBiasFinal',
+    image: '/images/projects/symbiosis.png',
+    date: 'May 2025',
+    desc:
+      'Simulation for paper published in WWW 2025',
+  },
+  {
     title: 'SmartPrep AI Toefl Tutor',
     link: 'https://www.smartprep.app',
     image: '/images/projects/smartprep.png',
