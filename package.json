@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YiweiIvy/personal-site.git"
+    "url": "git+https://github.com/YiweiIvy/personal-site.git"
   },
   "engines": {
     "node": ">=14.x"
@@ -29,6 +29,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
     "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^7.0.0",
     "@fortawesome/react-fontawesome": "0.1.18",
     "dayjs": "^1.11.3",
     "prop-types": "^15.8.1",

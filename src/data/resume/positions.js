@@ -1,9 +1,18 @@
 const positions = [
   {
+    company: 'Amazon',
+    position: 'Software Engineer',
+    link: '',
+    daterange: 'July 2025 - Present',
+    points: [
+      'Worked on Annotation Management System and Policy Management System for Amazon Classification and Policy Platform (CPP) Team where we utilized AI/ML and Human in the loop tools to classify Amazon products into various categories and labels.',
+    ],
+  },
+  {
     company: 'University of California, Berkeley – Haas Business School',
     position: 'Research Assistant',
     link: '',
-    daterange: 'March 2024 – Present ',
+    daterange: 'March 2024 – May 2025 ',
     points: [
       'Symbiosis Bias in A/B Testing: Working with Professor David Holtz and Google Researchers on Symbiosis Bias on A/B Testing. Co-devloped and A/B Testing simulation framework and mathematical models explaining how symbiosis bias emerges and could be mitigated in recommendation systems. Paper accepted at The Web Conference (WWW) 2025: https://dl.acm.org/doi/10.1145/3696410.3714738.',
       'The Engagement-Diveristy Connection: Designed and built simulation framework to study personalized recommendation impacts on content diversity and user engagement. Working paper: https://arxiv.org/abs/2003.08203.',
@@ -27,7 +36,7 @@ const positions = [
     daterange: 'March 2023 – March 2024 ',
     points: [
       'Developed a Generative AI-powered web application that offers personalized teaching. Secured funding from MiraclePlus (former Y Combinator China) with valuation of 4 million USD. In charge of the interactive frontend application with voice recording, a dynamic chat interface and detailed AI-powered feedback using React, JavaScript, HTML5, CSS and Amazon Web Services. ',
-      'Worked on a B2B comprehensive educational platform that offers a wide range of Gen-AI services and tools for students and educators, including QA bot, Worksheets & Assignment Tools, Class Planning Tools, AI Discussion Facilitators etc. Actively involved in shaping the product\'s vision, strategy, and hands-on technical development. Utilized full-stack tools such as React, AWS, MongoDB, Vector Database, and the ChatGPT API, ensuring a seamless and user-centric user-experience.',
+      "Worked on a B2B comprehensive educational platform that offers a wide range of Gen-AI services and tools for students and educators, including QA bot, Worksheets & Assignment Tools, Class Planning Tools, AI Discussion Facilitators etc. Actively involved in shaping the product's vision, strategy, and hands-on technical development. Utilized full-stack tools such as React, AWS, MongoDB, Vector Database, and the ChatGPT API, ensuring a seamless and user-centric user-experience.",
     ],
   },
   {
